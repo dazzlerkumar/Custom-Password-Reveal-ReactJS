@@ -1,9 +1,12 @@
-# Custom-Password-Reveal-ReactJS
-We have again used ternary operator to set the attributes. Initially, showPassword hook holds a boolean value `false` but when the eye icon is being clicked the hook changes it state to `true` and attribute changes the type to `text`.
+<h1 align="center"> Custom Password Reveal ReactJS </h1>
+<hr>
+When we build SignUp/SignIn form, it will be cool to implement functionality for the user, can see current values that his enter. It's really easy do this using React Hooks.
 
 ##### Dependencies required for this particular feature/function:-
 
-- Styled Components
-- React Icons
+- [Styled-components](https://styled-components.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-TO understand the code and working, please refer to my medium
+To understand the full workings of the functional, refer to my [medium article](https://dazzlerkumar.medium.com/custom-password-revealing-in-reactjs-using-hooks-1b46b51af13f) on same.
+
+<h6><em>For any suggestions or code improve, feel free to make a PR.</em></h6>
